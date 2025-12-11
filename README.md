@@ -1,6 +1,6 @@
 <img width="1920" height="1150" alt="2" src="https://github.com/user-attachments/assets/82e69287-5942-4611-a45d-6ee47edd6f4f" /># POS-Aplikasi
 Tampilan Aplikasi POS
-!<img width="1920" height="827" alt="1" src="https://github.com/user-attachments/assets/c40baf72-08df-49eb-8ff9-18a716421fbf" />
+Dashboard Aplikasi : !<img width="1920" height="827" alt="1" src="https://github.com/user-attachments/assets/c40baf72-08df-49eb-8ff9-18a716421fbf" />
 <img width="1920" height="1150" alt="2" src="https://github.com/user-attachments/assets/47383768-8d19-4d37-afbc-bb0a4d0a2e64" />
 <img width="1920" height="1250" alt="4" src="https://github.com/user-attachments/assets/0e5cd621-09a1-4ba9-ba31-71313c41d580" />
 <img width="1920" height="1250" alt="3" src="https://github.com/user-attachments/assets/d39f1961-2e69-4f2b-b88a-2bd541725333" />

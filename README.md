@@ -6,20 +6,15 @@ Berfungsi untuk membantu kasir maupun pemilik usaha dalam memantau aktivitas pen
 ---
 
 ## 📸 **Tampilan Aplikasi POS**
-
-### **1️⃣ Dashboard**
-
-Menampilkan ringkasan penjualan, jumlah transaksi, grafik pendapatan, serta overview aktivitas outlet. <br> <img width="1920" src="https://github.com/user-attachments/assets/82e69287-5942-4611-a45d-6ee47edd6f4f" />
-
 ---
 
-### **2️⃣ Halaman Produk**
+### **1️⃣ Halaman Login & Register**
 
 Berisi daftar produk lengkap dengan harga, kategori, stok, dan tombol aksi edit/hapus. <br> <img width="1920" src="https://github.com/user-attachments/assets/c40baf72-08df-49eb-8ff9-18a716421fbf" />
 
 ---
 
-### **3️⃣ Tambah Produk**
+### **2️⃣ Dashboard**
 
 Form untuk menambahkan produk baru ke dalam sistem POS. <br> <img width="1920" src="https://github.com/user-attachments/assets/47383768-8d19-4d37-afbc-bb0a4d0a2e64" />
 
